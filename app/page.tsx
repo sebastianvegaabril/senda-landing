@@ -589,7 +589,7 @@ export default function SendaLanding() {
                     {/* Avatar */}
                     <div className="w-32 h-32 lg:w-40 lg:h-40 bg-gradient-to-br from-emerald-400 to-emerald-600 rounded-full flex items-center justify-center mx-auto mb-8 shadow-xl">
                       <Image
-                        src="/ALEJO2.jpg"
+                        src="https://lh3.googleusercontent.com/a-/ALV-UjVj1P3IIxdFu03vaONX1V8LbUKGpVKC7XpqtSHGTRipIU9c5tA_=s80-p-k-rw-no"
                         alt="Alejo Fraga Segarra"
                         className="w-full h-full rounded-full object-cover"
                       />
@@ -642,7 +642,7 @@ export default function SendaLanding() {
                     {/* Avatar */}
                     <div className="w-32 h-32 lg:w-40 lg:h-40 bg-gradient-to-br from-emerald-400 to-emerald-600 rounded-full flex items-center justify-center mx-auto mb-8 shadow-xl">
                       <Image
-                        src="/SEBASTIAN.jpeg"
+                        src="https://media.licdn.com/dms/image/v2/D4D03AQF12kkjxMSPFw/profile-displayphoto-shrink_200_200/B4DZQEjvIbHwAc-/0/1735243265166?e=1757548800&v=beta&t=LX8C1WdKQxxyFIr7K7dDiD9X5P1mmdpQDGZLg1KQTKQ"
                         alt="Sebastian Vega Abril"
                         className="w-full h-full rounded-full object-cover"
                       />
