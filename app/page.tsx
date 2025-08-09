@@ -19,6 +19,7 @@ import {
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { useState, useEffect } from "react"
+import Image from 'next/image'
 
 export default function SendaLanding() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
@@ -587,7 +588,7 @@ export default function SendaLanding() {
                   <CardContent className="p-8 lg:p-12 text-center h-full flex flex-col">
                     {/* Avatar */}
                     <div className="w-32 h-32 lg:w-40 lg:h-40 bg-gradient-to-br from-emerald-400 to-emerald-600 rounded-full flex items-center justify-center mx-auto mb-8 shadow-xl">
-                      <img
+                      <Image
                         src="/ALEJO2.jpg"
                         alt="Alejo Fraga Segarra"
                         className="w-full h-full rounded-full object-cover"
@@ -640,7 +641,7 @@ export default function SendaLanding() {
                   <CardContent className="p-8 lg:p-12 text-center h-full flex flex-col">
                     {/* Avatar */}
                     <div className="w-32 h-32 lg:w-40 lg:h-40 bg-gradient-to-br from-emerald-400 to-emerald-600 rounded-full flex items-center justify-center mx-auto mb-8 shadow-xl">
-                      <img
+                      <Image
                         src="/SEBASTIAN.jpeg"
                         alt="Sebastian Vega Abril"
                         className="w-full h-full rounded-full object-cover"
